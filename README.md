@@ -1,15 +1,13 @@
-<div style="display: flex; align-items: center; justify-content: center; margin: 10px">
-        <img
-          align=center
-          src="https://img.shields.io/github/stars/EaminC?style=flat&logoColor=%23bc266e&labelColor=rgb(89, 89, 89)&color=%2391ed72"
-          style="margin: 0 5px"
-        /><img
-          align=center
-          src="https://img.shields.io/github/followers/EaminC?style=flat&logoColor=%23bc266e&labelColor=rgb(89, 89, 89)&color=%2391ed72""
-          style="margin: 0 5px"
-        />
-      </div><a href="https://wakatime.com/@018e0793-354b-42d4-8c6d-8dba8d71ab4f"><img align="center" src="https://wakatime.com/badge/user/018e0793-354b-42d4-8c6d-8dba8d71ab4f.svg" ></a>
-      
+<p align="center">
+  <img align="center" src="https://img.shields.io/github/stars/EaminC?style=flat&logoColor=%23bc266e&labelColor=rgb(89, 89, 89)&color=%2391ed72" />
+  <img align="center" src="https://img.shields.io/github/followers/EaminC?style=flat&logoColor=%23bc266e&labelColor=rgb(89, 89, 89)&color=%2391ed72" />
+  <a href="https://wakatime.com/@018e0793-354b-42d4-8c6d-8dba8d71ab4f">
+    <img align="center" src="https://wakatime.com/badge/user/018e0793-354b-42d4-8c6d-8dba8d71ab4f.svg" />
+  </a>
+  <a href="https://eaminc.github.io/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/github-me-%2303fabd?style=plastic" />
+  </a>
+</p>
 <p align="left">  
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=EaminC&theme=dark&hide_border=true" />
