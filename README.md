@@ -18,18 +18,24 @@
     <img align="center" src="https://img.shields.io/badge/github-me-%2303fabd?style=flat" />
   </a>
 </p>
+
 <h3>Things I code with</h3>
+   <code><img title="pytorch" height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg"></code>
   <code><img title="C" height="25" src="images/c.svg"></code>
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="Flask" height="25" src="images/flask.png"></code>
+  <code><img title="Golang" height="25" src="images/golang.png"></code>
+ 
 <p align="middle">  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EaminC/EaminC/output/github-contribution-grid-snake-dark.svg">
