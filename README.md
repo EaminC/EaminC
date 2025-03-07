@@ -39,7 +39,7 @@
 
 ---
 
-## Contact Me
+##About Me
 
 
 <p><em>https://eaminc.github.io/</em></p>
