@@ -3,7 +3,6 @@
   <img align="center" src="https://img.shields.io/github/stars/EaminC?style=flat&logoColor=%23bc266e&labelColor=rgb(89, 89, 89)&color=%2391ed72" />
   <img align="center" src="https://img.shields.io/github/followers/EaminC?style=flat&logoColor=%23bc266e&labelColor=rgb(89, 89, 89)&color=%2391ed72" />
     <img align="center" src="https://wakatime.com/badge/user/waka_9ceed113-1e28-40b3-9b3c-b701d68c5540.svg" />
-  </a>
   <a href="https://eaminc.github.io/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/github-me-%2303fabd?style=plastic" />
   </a>
