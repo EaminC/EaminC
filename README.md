@@ -47,13 +47,8 @@
 <p>This is fake</p>  
 <p>Polluted by recent project</p>  
 <p>Working on Python and Go mostly</p>  
-<div align="right">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3A2MDBzbmUzeXVyNXE4YjQ5cndvbTR4OGdqOTV5cGYzNm83a3o4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" width="230">
-  <br>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Y0ZWh1MWN5bXlobHAwNmdnd2Z4dnloeXg0cm8xMmNjdWoxbDF3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLNdyfKtSsasM/giphy.gif" width="60">
-</div>
 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 <p align="left">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EaminC&locale=ja&line_height=33&theme=dracula&langs_count=20&layout=donut-vertical"/>  
 </p>  
