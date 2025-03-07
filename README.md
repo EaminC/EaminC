@@ -61,7 +61,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/EaminC/count.svg" />
+  <img src="https://api.moedog.org/count/@EaminC.readme" />
 </p>
 
 
