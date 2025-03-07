@@ -16,7 +16,9 @@
 
 <p><em>https://eaminc.github.io/</em></p>
 
-
+This is fake
+Polluted by recent project
+Working on Python and Go mostly
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EaminC&hide_progress=true)
 
