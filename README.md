@@ -43,15 +43,15 @@
 
 
 <p><em>https://eaminc.github.io/</em></p>
-
-<p>This is fake</p>  
-<p>Polluted by recent project</p>  
-<p>Working on Python and Go mostly</p>  
-
-
 <p align="left">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EaminC&locale=ja&line_height=33&theme=dracula&langs_count=20&layout=donut-vertical"/>  
 </p>  
+<p align="right">This is fake</p>  
+<p align="right">Polluted by recent project</p>  
+<p align="right">Working on Python and Go mostly</p>  
+
+
+
 
 
 ---
