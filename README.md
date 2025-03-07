@@ -43,7 +43,7 @@
 
 
 <p><em>🌐 <a href="https://eaminc.github.io/">私の網頁</a></em></p>
-<p align="middle">  
+<p align="left">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EaminC&locale=ja&line_height=33&theme=dracula&langs_count=20&layout=donut-vertical"/>  
 </p>  
 <p align="right">This is fake</p>  
