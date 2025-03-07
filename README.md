@@ -1,4 +1,4 @@
-<strong> Hi, I'm Github 河南理工大学-WangRongsheng! 你学习到越多你就会越幸运的遇到机会<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></strong>
+<strong> Hi, I'm Github EaminChan 程逸鸣! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></strong>
 
 ## Github Statistics
 
