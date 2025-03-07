@@ -24,6 +24,9 @@ Working on Python and Go mostly
 
 <img   align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EaminC&locale=ja&line_height=33&theme=dracula&langs_count=20&layout=donut-vertical"/>
 
+
+
+
 ---
 
 ## Visitor Statistics
