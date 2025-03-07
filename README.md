@@ -19,7 +19,7 @@
 This is fake
 Polluted by recent project
 Working on Python and Go mostly
-<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3A2MDBzbmUzeXVyNXE4YjQ5cndvbTR4OGdqOTV5cGYzNm83a3o4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" width="230">
+<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJlNnQ2MHdidm13OTVjODNxampjdzE2dDk5b3RvdDA2djB5OTFodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vuw9m5wXviFIQ/giphy.gif" width="230">
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EaminC&hide_progress=true)
