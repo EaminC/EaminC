@@ -22,9 +22,9 @@ Working on Python and Go mostly
 <img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJlNnQ2MHdidm13OTVjODNxampjdzE2dDk5b3RvdDA2djB5OTFodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vuw9m5wXviFIQ/giphy.gif" width="230">
 
 
-<img   align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EaminC&locale=ja&line_height=33&theme=dracula&langs_count=20&layout=donut-vertical"/>
-
-
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EaminC&locale=ja&line_height=33&theme=dracula&langs_count=20&layout=donut-vertical"/>  
+</p>  
 
 
 ---
