@@ -1,4 +1,5 @@
-<p align="center">
+<strong> Hi, I'm Github EaminChan 程逸鸣! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></strong>
+<p align="left">
   <img align="center" src="https://img.shields.io/github/stars/EaminC?style=flat&logoColor=%23bc266e&labelColor=rgb(89, 89, 89)&color=%2391ed72" />
   <img align="center" src="https://img.shields.io/github/followers/EaminC?style=flat&logoColor=%23bc266e&labelColor=rgb(89, 89, 89)&color=%2391ed72" />
     <img align="center" src="https://wakatime.com/badge/user/018e0793-354b-42d4-8c6d-8dba8d71ab4f.svg" />
@@ -19,7 +20,7 @@
 <p align="left">  
   <div ><img  src="https://github-profile-trophy.vercel.app/?username=EaminC&theme=gruvbox&row=1&column=5&no-frame=true&no-bg=true" width="1000" /><br/></div>
 </p>  
-<strong> Hi, I'm Github EaminChan 程逸鸣! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></strong>
+
 
 ## Github Statistics
 
