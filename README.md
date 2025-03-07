@@ -1,3 +1,10 @@
+<a href="https://wakatime.com/@018e0793-354b-42d4-8c6d-8dba8d71ab4f"><img align="center" src="https://wakatime.com/badge/user/018e0793-354b-42d4-8c6d-8dba8d71ab4f.svg" ></a>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=EaminC&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=EaminC&theme=light&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EaminC&theme=default&hide_border=true" />
+  </picture>
+  <div ><img  src="https://github-profile-trophy.vercel.app/?username=EaminC&theme=gruvbox&row=1&column=5&no-frame=true&no-bg=true" /><br/></div>
 <strong> Hi, I'm Github EaminChan 程逸鸣! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></strong>
 
 ## Github Statistics
