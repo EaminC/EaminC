@@ -15,8 +15,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=EaminC&theme=default&hide_border=true" />
   </picture>
 
-  <p align="left">  
-  <div ><img  src="https://github-profile-trophy.vercel.app/?username=EaminC&theme=gruvbox&row=1&column=5&no-frame=true&no-bg=true" width="500" /><br/></div>
+<p align="left">  
+  <div ><img  src="https://github-profile-trophy.vercel.app/?username=EaminC&theme=gruvbox&row=1&column=5&no-frame=true&no-bg=true" width="50" /><br/></div>
 </p>  
 <strong> Hi, I'm Github EaminChan 程逸鸣! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></strong>
 
