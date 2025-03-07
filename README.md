@@ -4,7 +4,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=EaminC&theme=light&hide_border=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=EaminC&theme=default&hide_border=true" />
   </picture>
-  <div ><img  src="https://github-profile-trophy.vercel.app/?username=EaminC&theme=gruvbox&row=1&column=5&no-frame=true&no-bg=true" /><br/></div>
+  <div ><img  src="https://github-profile-trophy.vercel.app/?username=EaminC&theme=gruvbox&row=1&column=5&no-frame=true&no-bg=true" width="500" /><br/></div>
 <strong> Hi, I'm Github EaminChan 程逸鸣! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></strong>
 
 ## Github Statistics
