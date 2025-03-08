@@ -3,21 +3,22 @@
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </div>
 
-<div align="left">
+<div style="display: flex; align-items: center; gap: 10px;">
   <a href="https://eaminc.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=Eamin Chan" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=Eamin+Chan" alt="Typing SVG" />
   </a>
 </div>
-<p align="left">
-  <img align="center" src="https://img.shields.io/github/stars/EaminC?style=flat&logoColor=%23bc266e&labelColor=rgb(89, 89, 89)&color=%2391ed72" />
-  <img align="center" src="https://img.shields.io/github/followers/EaminC?style=flat&logoColor=%23bc266e&labelColor=rgb(89, 89, 89)&color=%2391ed72" />
+
+<div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
+  <img src="https://img.shields.io/github/stars/EaminC?style=flat&logoColor=%23bc266e&labelColor=rgb(89, 89, 89)&color=%2391ed72" />
+  <img src="https://img.shields.io/github/followers/EaminC?style=flat&logoColor=%23bc266e&labelColor=rgb(89, 89, 89)&color=%2391ed72" />
   <a href="https://wakatime.com/@a6ed95d8-6b44-45ab-bd18-8bf5da334f6a">
-    <img align="center" src="https://wakatime.com/badge/user/0de3f700-fb33-4a4a-b03d-059cbee8a52a.svg?style=flat" />
+    <img src="https://wakatime.com/badge/user/a6ed95d8-6b44-45ab-bd18-8bf5da334f6a.svg" alt="Total time coded since Mar 7 2025" />
   </a>
   <a href="https://eaminc.github.io/" target="_blank">
-    <img align="center"src="https://img.shields.io/badge/github-me-%2303fabd?style=flat" />
+    <img src="https://img.shields.io/badge/github-me-%2303fabd?style=flat" />
   </a>
-</p>
+</div>
 
 <h3>Things I code with</h3>
    <code><img title="pytorch" height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg"></code>
