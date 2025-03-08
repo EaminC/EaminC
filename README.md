@@ -16,7 +16,7 @@
     <img src="https://wakatime.com/badge/user/a6ed95d8-6b44-45ab-bd18-8bf5da334f6a.svg" alt="Total time coded since Mar 7 2025" />
   </a>
   <a href="https://eaminc.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/github-me-%2303fabd?style=flat" />
+    <img src="https://img.shields.io/badge/PersonalWebsite-Click-%2303fabd?style=flat" />
   </a>
 </div>
 
@@ -57,9 +57,31 @@
   <code><img title="EESAST" width="25" height="25" src="https://docs.eesast.com/img/favicon.ico"></code>
   <code><img title="MidSchool" width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/b/b7/High_School_of_JDFZ_funny_picture.jpg"></code>
 
- 
-  
+### Also fan in
+![Playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white)
+![3DS](https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
+![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
+	![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+ ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 <p align="middle">  
+
+### Contack me
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+	![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+ ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)
+ ![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-FF4088?style=for-the-badge&logo=google-scholar&logoColor=white)
+
+
+### Academic Interests
+![Data Mining](https://img.shields.io/badge/Data%20Mining-0078D4?style=for-the-badge&logo=databricks&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F9A03C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Systems](https://img.shields.io/badge/Systems-8A2BE2?style=for-the-badge&logo=nvidia&logoColor=white)
+![Recommendation Systems](https://img.shields.io/badge/Recommendation%20Systems-FF4088?style=for-the-badge&logo=meituan&logoColor=white)
+
+
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EaminC/EaminC/output/github-contribution-grid-snake-dark.svg">
@@ -79,6 +101,8 @@
 </p>  
 
 
+
+
 ## Github Statistics
 
 
@@ -90,11 +114,10 @@
 
 ---
 
-## About Me
+## Language Statistics
 
 
-<p><em>🌐 <a href="https://eaminc.github.io/">私の網頁</a></em></p>
-<p>Interested in: data mining,machine learning,systems,recommemdation systems</p>
+
 <p align="middle">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EaminC&locale=ja&line_height=33&theme=dracula&langs_count=20&layout=donut-vertical"/>  
 </p>  
