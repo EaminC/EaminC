@@ -35,6 +35,8 @@
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="Flask" height="25" src="images/flask.png"></code>
   <code><img title="Golang" height="25" src="images/golang.png"></code>
+  <code><img title="K8s" height="25" src="https://avatars.githubusercontent.com/u/13629408?s=200&v=4"></code>
+  
 <p align="middle">  
 
 
