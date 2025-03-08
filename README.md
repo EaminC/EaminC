@@ -1,5 +1,5 @@
 <div align="left">
-  <strong>欢迎光临 程逸鸣 的 GitHub</strong>
+  <strong>欢迎光临 程逸鸣(右一) 的 GitHub</strong>
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </div>
 
