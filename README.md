@@ -47,6 +47,10 @@
   <code><img title="THUIE" width="30" height="25" src="images/thuie.png"></code>
   <code><img title="FIBLAB" width="25" height="25" src="https://fi.ee.tsinghua.edu.cn/static/img/logo/thu-fib-lab.svg"></code>
   <code><img title="Uchicago" width="25" height="25" src="https://upload.wikimedia.org/wikipedia/en/7/79/University_of_Chicago_shield.svg"></code>
+  <code><img title="LMcache" width="25" height="25" src="https://avatars.githubusercontent.com/u/171091289?s=200&v=4"></code>
+  <code><img title="LMcache" width="25" height="25" src="https://avatars.githubusercontent.com/u/136984999?s=200&v=4"></code>
+  <code><img title="UH" width="25" height="25" src=" https://upload.wikimedia.org/wikipedia/commons/e/e8/Houston_Cougars_primary_logo.svg"></code>
+ 
  
   
 <p align="middle">  
