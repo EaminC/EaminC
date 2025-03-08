@@ -91,6 +91,7 @@
 
 
 <p><em>🌐 <a href="https://eaminc.github.io/">私の網頁</a></em></p>
+<p>Interested in: data mining,machine learning,systems,recommemdation systems</p>
 <p align="middle">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EaminC&locale=ja&line_height=33&theme=dracula&langs_count=20&layout=donut-vertical"/>  
 </p>  
