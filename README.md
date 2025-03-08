@@ -15,7 +15,7 @@
     <img align="center" src="https://wakatime.com/badge/user/a6ed95d8-6b44-45ab-bd18-8bf5da334f6a.svg?style=flat" />
   </a>
   <a href="https://eaminc.github.io/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/github-me-%2303fabd?style=flat" />
+    <img align="center"src="https://img.shields.io/badge/github-me-%2303fabd?style=flat" />
   </a>
 </p>
 
