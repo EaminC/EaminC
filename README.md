@@ -47,8 +47,8 @@
   <code><img title="THUIE" width="30" height="25" src="images/thuie.png"></code>
   <code><img title="FIBLAB" width="25" height="25" src="https://fi.ee.tsinghua.edu.cn/static/img/logo/thu-fib-lab.svg"></code>
   <code><img title="Uchicago" width="25" height="25" src="https://upload.wikimedia.org/wikipedia/en/7/79/University_of_Chicago_shield.svg"></code>
+  <code><img title="UchiCS" width="25" height="25" src="https://media.licdn.com/dms/image/v2/C560BAQHoKRtwjiEU7g/company-logo_200_200/company-logo_200_200/0/1630607934136/uchicagocs_logo?e=1749686400&v=beta&t=C03zukZ4Lg4mbFwRCQUQp9atQJ4jd7gb19Dx7eoQqWQ"></code>
   <code><img title="LMcache" width="25" height="25" src="https://avatars.githubusercontent.com/u/171091289?s=200&v=4"></code>
-  <code><img title="LMcache" width="25" height="25" src="https://media.licdn.com/dms/image/v2/C560BAQHoKRtwjiEU7g/company-logo_200_200/company-logo_200_200/0/1630607934136/uchicagocs_logo?e=1749686400&v=beta&t=C03zukZ4Lg4mbFwRCQUQp9atQJ4jd7gb19Dx7eoQqWQ"></code>
   <code><img title="vllm" width="25" height="25" src="https://avatars.githubusercontent.com/u/136984999?s=200&v=4"></code>
   <code><img title="UH" width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Houston_Cougars_primary_logo.svg"></code>
   <code><img title="EESAST" width="25" height="25" src="https://docs.eesast.com/img/favicon.ico"></code>
