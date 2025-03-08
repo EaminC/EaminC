@@ -15,9 +15,6 @@
   <a href="https://wakatime.com/@a6ed95d8-6b44-45ab-bd18-8bf5da334f6a">
     <img src="https://wakatime.com/badge/user/a6ed95d8-6b44-45ab-bd18-8bf5da334f6a.svg" alt="Total time coded since Mar 7 2025" />
   </a>
-  <a href="https://eaminc.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/PersonalWebsite-Click-%2303fabd?style=flat" />
-  </a>
 </div>
 
 <h3>Things I code with</h3>
@@ -81,8 +78,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eaminc0328@gmail.com)
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://raw.githubusercontent.com/EaminC/EaminC/main/images/Wechat.jpg)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-FF4088?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=NeeNIjIAAAAJ&hl=en)
-
-
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-Click-%2303fabd?style=for-the-badge)](https://eaminc.github.io/)
 
 
 
