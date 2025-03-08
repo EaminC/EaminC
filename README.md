@@ -76,12 +76,11 @@
 <p align="middle">  
 
 ### Contack me
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-	![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
- ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)
- ![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-FF4088?style=for-the-badge&logo=google-scholar&logoColor=white)
-
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](你的Slack链接)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](你的LinkedIn链接)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eaminc0328@gmail.com)
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](你的WeChat链接)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-FF4088?style=for-the-badge&logo=google-scholar&logoColor=white)](你的Google Scholar链接)
 
 
 
