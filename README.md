@@ -78,7 +78,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eaminc0328@gmail.com)
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://raw.githubusercontent.com/EaminC/EaminC/main/images/Wechat.jpg)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-FF4088?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=NeeNIjIAAAAJ&hl=en)
-[![Personal Website](https://img.shields.io/badge/Click-Personal%20Website-%2303fabd?style=for-the-badge&logo=googlechrome&logoColor=white)](https://eaminc.github.io/)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-Click-%23033344?style=for-the-badge&logo=googlechrome&logoColor=%2303fabd)](https://eaminc.github.io/)
 
 
 
