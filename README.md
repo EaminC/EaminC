@@ -57,6 +57,16 @@
   <code><img title="EESAST" width="25" height="25" src="https://docs.eesast.com/img/favicon.ico"></code>
   <code><img title="MidSchool" width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/b/b7/High_School_of_JDFZ_funny_picture.jpg"></code>
 
+
+
+### Academic Interests
+![Data Mining](https://img.shields.io/badge/Data%20Mining-0078D4?style=for-the-badge&logo=databricks&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F9A03C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Systems](https://img.shields.io/badge/Systems-8A2BE2?style=for-the-badge&logo=nvidia&logoColor=white)
+![Recommendation Systems](https://img.shields.io/badge/Recommendation%20Systems-FF4088?style=for-the-badge&logo=meituan&logoColor=white)
+
+
+
 ### Also fan in
 ![Playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 ![3DS](https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
@@ -73,11 +83,7 @@
  ![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-FF4088?style=for-the-badge&logo=google-scholar&logoColor=white)
 
 
-### Academic Interests
-![Data Mining](https://img.shields.io/badge/Data%20Mining-0078D4?style=for-the-badge&logo=databricks&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F9A03C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Systems](https://img.shields.io/badge/Systems-8A2BE2?style=for-the-badge&logo=nvidia&logoColor=white)
-![Recommendation Systems](https://img.shields.io/badge/Recommendation%20Systems-FF4088?style=for-the-badge&logo=meituan&logoColor=white)
+
 
 
 
