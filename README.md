@@ -41,10 +41,13 @@
   </p>
 <h3>Current or Previous Org</h3>
 
-   <code><img title="THUEE" height="25" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Tsinghua_University_Logo.svg"></code>
+   <code><img title="THU" height="25" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Tsinghua_University_Logo.svg"></code>
    <code><img title="THUEE" height="25" src="https://upload.wikimedia.org/wikipedia/zh/d/d0/Department_of_Electronic_Engineering%2C_Tsinghua_University.svg"></code>
-  <code><img title="FIBLAB" width="25" height="25" src="https://upload.wikimedia.org/wikipedia/zh/c/cd/School_of_Law%2C_Tsinghua_University.svg"></code>
+  <code><img title="THULAW" width="25" height="25" src="https://upload.wikimedia.org/wikipedia/zh/c/cd/School_of_Law%2C_Tsinghua_University.svg"></code>
+  <code><img title="THUIE" width="30" height="25" src="images/thuie.png"></code>
   <code><img title="FIBLAB" width="25" height="25" src="https://fi.ee.tsinghua.edu.cn/static/img/logo/thu-fib-lab.svg"></code>
+  <code><img title="Uchicago" width="25" height="25" src="https://upload.wikimedia.org/wikipedia/en/7/79/University_of_Chicago_shield.svg"></code>
+ 
   
 <p align="middle">  
 
