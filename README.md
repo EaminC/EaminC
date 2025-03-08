@@ -73,12 +73,13 @@
 <p align="middle">  
 
 ### Contack me
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-Click-%23033344?style=for-the-badge&logo=googlechrome&labelColor=%2303fabd&logoColor=white)](https://eaminc.github.io/)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://eaminsslack.slack.com/archives/C08H4BZPXNV)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yiming-cheng-429999330/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eaminc0328@gmail.com)
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://raw.githubusercontent.com/EaminC/EaminC/main/images/Wechat.jpg)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-FF4088?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=NeeNIjIAAAAJ&hl=en)
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-Click-%23033344?style=for-the-badge&logo=googlechrome&labelColor=%2303fabd&logoColor=white)](https://eaminc.github.io/)
+
 
 
 
