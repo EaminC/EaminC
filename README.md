@@ -53,6 +53,8 @@
   <code><img title="UH" width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Houston_Cougars_primary_logo.svg"></code>
   <code><img title="EESAST" width="25" height="25" src="https://docs.eesast.com/img/favicon.ico"></code>
   <code><img title="MidSchool" width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/b/b7/High_School_of_JDFZ_funny_picture.jpg"></code>
+ <code><img title="MidSchool" width="25" height="25" src="https://tensorblock.co/assets/img/TensorBlock_logo.svg"></code>
+  
 
 
 
