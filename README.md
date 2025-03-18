@@ -74,7 +74,7 @@
  ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 <p align="middle">  
 
-### Contack me
+### Contact me
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-Click-%23022233?style=for-the-badge&logo=googlechrome&labelColor=%2302c6a4&logoColor=white)](https://eaminc.github.io/)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://eaminsslack.slack.com/archives/C08H4BZPXNV)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yiming-cheng-429999330/)
