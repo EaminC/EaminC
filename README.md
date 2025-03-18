@@ -17,7 +17,7 @@
   </a>
 </div>
 
-<h3>Things I code with</h3>
+<h3>💻 Things I code with</h3>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="pytorch" height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg"></code>
   <code><img title="Golang" height="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png"></code>
@@ -40,7 +40,7 @@
 
 
   </p>
-<h3>Current or Previous Org</h3>
+<h3>🚀 Current or Previous Org</h3>
 
    <code><img title="THU" height="25" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Tsinghua_University_Logo.svg"></code>
    <code><img title="THUEE" height="25" src="https://upload.wikimedia.org/wikipedia/zh/d/d0/Department_of_Electronic_Engineering%2C_Tsinghua_University.svg"></code>
@@ -58,7 +58,7 @@
 
 
 
-### Academic Interests
+### 📖 Academic Interests
 ![Data Mining](https://img.shields.io/badge/Data%20Mining-0078D4?style=for-the-badge&logo=databricks&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F9A03C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Systems](https://img.shields.io/badge/Systems-8A2BE2?style=for-the-badge&logo=nvidia&logoColor=white)
@@ -66,7 +66,7 @@
 
 
 
-### Also fan in
+### 🎮 Also fan in
 ![Playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 ![3DS](https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
@@ -74,7 +74,7 @@
  ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 <p align="middle">  
 
-### Contact me
+### ☎️ Contact me
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-Click-%23022233?style=for-the-badge&logo=googlechrome&labelColor=%2302c6a4&logoColor=white)](https://eaminc.github.io/)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://eaminsslack.slack.com/archives/C08H4BZPXNV)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yiming-cheng-429999330/)
