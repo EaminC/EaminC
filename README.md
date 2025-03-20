@@ -33,7 +33,6 @@
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
 
   
 <p align="middle">  
