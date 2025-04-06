@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=Eamin+Chan" alt="Typing SVG" />
   </a>
 </div>
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-Click-%23022233?style=for-the-badge&logo=googlechrome&labelColor=%2302c6a4&logoColor=white)](https://eaminc.github.io/)
+
 
 <div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
   <img src="https://img.shields.io/github/stars/EaminC?style=flat&logoColor=%23bc266e&labelColor=rgb(89, 89, 89)&color=%2391ed72" />
@@ -75,6 +75,7 @@
 <p align="middle">  
 
 ### ☎️ Contact me
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-Click-%23022233?style=for-the-badge&logo=googlechrome&labelColor=%2302c6a4&logoColor=white)](https://eaminc.github.io/)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://eaminsslack.slack.com/archives/C08H4BZPXNV)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yiming-cheng-429999330/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eaminc0328@gmail.com)
