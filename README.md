@@ -142,5 +142,6 @@
   Visitor count<br>
   <img src="https://api.moedog.org/count/@EaminC.readme" />
 </p>
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Z4-09SEH2mvA9STaRuY-CxK1Gof8kIqJd2-Ja6rDLqA&cl=ffffff&w=a"></script>
+
+<a href="https://clustrmaps.com/site/1c5l3"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=Z4-09SEH2mvA9STaRuY-CxK1Gof8kIqJd2-Ja6rDLqA&cl=ffffff" /></a>
 
