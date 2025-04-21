@@ -1,6 +1,6 @@
 <div align="left">
   <strong>欢迎光临 程逸鸣 的 GitHub</strong>
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" style="margin-left: 1000px;">
 </div>
 
 
