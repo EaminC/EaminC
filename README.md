@@ -142,12 +142,12 @@
 
 ## Thanks for Visiting!
 
+<a id="waifu"></a>
 
 <p align="center"> 
   <img src="https://waifu-getter.vercel.app/sfw/random?" width="498" height="280" />
 </p>
 
-<a id="waifu"></a>
 
 <p align="right">
   The picture will be different everytime you <a href="https://github.com/EaminC#waifu">refresh</a>!
