@@ -137,7 +137,7 @@
 
 
 ## Thanks for Visiting!
----
+
 
 <p align="center"> 
   <img src="https://waifu-getter.vercel.app/sfw/random?" width="498" height="280" />
