@@ -139,18 +139,17 @@
 <p align="right">Working on Python and Go mostly</p>  
 
 
+
 ## Thanks for Visiting!
 
-
+<a id="waifu"></a>
 <p align="center"> 
   <img src="https://waifu-getter.vercel.app/sfw/random?" width="498" height="280" />
 </p>
 
-
 <p align="right">
-  The picture will be different everytime you <a href="https://github.com/EaminC">refresh</a>!
+  The picture will be different everytime you <a href="#waifu">refresh</a>!
 </p>
-
 
 ---
 
