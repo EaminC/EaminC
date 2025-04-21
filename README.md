@@ -11,7 +11,7 @@
 </div>
 
 <p align="center"> 
-  <img src="https://waifu-getter.vercel.app/sfw/wink" width="300" height="300" />
+  <img src="https://waifu-getter.vercel.app/sfw/wink" width="300" height="225" />
 </p>
 
 <div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
