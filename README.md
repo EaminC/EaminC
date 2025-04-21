@@ -148,7 +148,7 @@
 </p>
 
 <p align="right">
-  The picture will be different everytime you <a href="#waifu">refresh</a>!
+  The picture will be different everytime you <a href="https://github.com/EaminC#waifu">refresh</a>!
 </p>
 
 ---
