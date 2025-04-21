@@ -146,7 +146,11 @@
   <img src="https://waifu-getter.vercel.app/sfw/random?" width="498" height="280" />
 </p>
 
-<p align="right">The picture will be different everytime you refresh!</p> 
+
+<p align="right">
+  The picture will be different everytime you <a href="https://github.com/EaminC">refresh</a>!
+</p>
+
 
 ---
 
