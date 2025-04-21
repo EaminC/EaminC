@@ -21,7 +21,7 @@
 </div>
 
 <!-- Wink 图片 -->
-## Wink
+## Welcome
 <p align="center">
   <img src="https://waifu-getter.vercel.app/sfw/wink" width="498" height="280" />
 </p>
