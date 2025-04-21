@@ -136,7 +136,9 @@
 <p align="right">Working on Python and Go mostly</p>  
 
 
-
+<p align="center"> 
+  <img src="https://waifu-getter.vercel.app/sfw/random?" width="498" height="280" />
+</p>
 
 
 ---
