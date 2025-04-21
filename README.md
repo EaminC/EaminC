@@ -1,3 +1,9 @@
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://waifu-getter.vercel.app/sfw/wink" />
+</p>
+
+
 <div align="left">
   <strong>欢迎光临 程逸鸣 的 GitHub</strong>
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
