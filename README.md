@@ -160,7 +160,7 @@
 
  
 <p align="center"> 
-  Visitor count<br>
+  You are Visitor No.<br>
   <img src="https://count.getloli.com/@EaminC?name=EaminC&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
 </p>
 
