@@ -145,7 +145,7 @@
 
 
 <p align="center" id="waifu"> 
-  <img src="https://waifu-getter.vercel.app/sfw/random?cachebuster=1713527089" width="498" height="280" />
+  <img src="https://waifu-getter.vercel.app/sfw/random?" width="498" height="280" />
 </p>
 
 
