@@ -29,7 +29,7 @@
 </p>
 
 <p align="right">
-  The wink will be different everytime you <a href="https://github.com/EaminC">refresh</a>!
+  The wink will be different everytime you <a href="https://github.com/EaminC">refresh  <img src="images/fresh.png" width="20" /></a> !
 </p>
 
 <br /><br />
@@ -147,7 +147,7 @@
 </p>
 
 <p align="right">
-  The picture will be different everytime you <a href="https://github.com/EaminC">refresh</a>!
+  The picture will be different everytime you <a href="https://github.com/EaminC">refresh   <img src="images/fresh.png" width="20" /></a> !
 </p>
 
 
