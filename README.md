@@ -96,6 +96,20 @@
 
 
 
+
+
+
+## Github Statistics
+
+
+<img src="images/pic1.png" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3A2MDBzbmUzeXVyNXE4YjQ5cndvbTR4OGdqOTV5cGYzNm83a3o4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" width="200">
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EaminC&show_icons=true&theme=cobalt&count_private=true)
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EaminC/EaminC/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EaminC/EaminC/output/github-contribution-grid-snake.svg">
@@ -114,20 +128,6 @@
 </p>  
 
 
-
-
-## Github Statistics
-
-
-<img src="images/pic1.png" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3A2MDBzbmUzeXVyNXE4YjQ5cndvbTR4OGdqOTV5cGYzNm83a3o4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" width="200">
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EaminC&show_icons=true&theme=cobalt&count_private=true)
-
----
-
-## Language Statistics
 
 
 
