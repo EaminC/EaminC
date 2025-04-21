@@ -1,5 +1,4 @@
 <p align="center"> 
-  Visitor count<br>
   <img src="https://waifu-getter.vercel.app/sfw/wink" />
 </p>
 
