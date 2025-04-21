@@ -135,6 +135,8 @@
 <p align="right">Polluted by recent project</p>  
 <p align="right">Working on Python and Go mostly</p>  
 
+
+## Thanks for Visiting!
 ---
 
 <p align="center"> 
@@ -142,6 +144,7 @@
 </p>
 
 <p align="right">The picture will be different everytime you refresh!</p> 
+
 ---
 
 ## Visitor Statistics
