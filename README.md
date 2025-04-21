@@ -23,7 +23,7 @@
 </p>
 
 
-
+---
 <h3>💻 Things I code with</h3>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="pytorch" height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg"></code>
