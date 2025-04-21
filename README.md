@@ -1,12 +1,10 @@
-<p align="center"> 
-  <img src="https://waifu-getter.vercel.app/sfw/wink" />
-</p>
-
-
 <div align="left">
   <strong>欢迎光临 程逸鸣 的 GitHub</strong>
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </div>
+<p align="center"> 
+  <img src="https://waifu-getter.vercel.app/sfw/wink" />
+</p>
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <a href="https://eaminc.github.io/">
