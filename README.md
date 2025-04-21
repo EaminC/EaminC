@@ -148,7 +148,6 @@
 </p>
 <p align="center"> 
   Visitor count<br>
-  <img src="[https://api.moedog.org/count/@EaminC.readme](https://count.getloli.com/@EaminC?name=EaminC&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)" />
+  <img src="https://count.getloli.com/@EaminC?name=EaminC&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
 </p>
-
 
