@@ -2,9 +2,7 @@
   <strong>欢迎光临 程逸鸣 的 GitHub</strong>
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </div>
-<p align="center"> 
-  <img src="https://waifu-getter.vercel.app/sfw/wink" />
-</p>
+
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <a href="https://eaminc.github.io/">
@@ -12,6 +10,9 @@
   </a>
 </div>
 
+<p align="center"> 
+  <img src="https://waifu-getter.vercel.app/sfw/wink" />
+</p>
 
 <div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
   <img src="https://img.shields.io/github/stars/EaminC?style=flat&logoColor=%23bc266e&labelColor=rgb(89, 89, 89)&color=%2391ed72" />
