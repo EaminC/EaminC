@@ -23,7 +23,7 @@
 </p>
 
 <p align="right">
-  The wink will be different everytime you <a href=".">refresh</a>!
+  The wink will be different everytime you <a href="https://github.com/EaminC">refresh</a>!
 </p>
 
 ---
