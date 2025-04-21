@@ -21,7 +21,7 @@
 <p align="center"> 
   <img src="https://waifu-getter.vercel.app/sfw/wink" width="498" height="280" />
 </p>
-
+<p align="right">The wink will be different everytime you refresh!</p> 
 
 ---
 <h3>💻 Things I code with</h3>
