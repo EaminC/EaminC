@@ -1,6 +1,6 @@
 <!-- 欢迎区域 -->
 <div align="left">
-  <strong>欢迎光临 程逸鸣 的 GitHub</strong>
+  <strong>欢迎光临 程逸鸣 的 <img src="images/wasm/vvg.svg" width="10" /><img src="images/wasm/vvi.svg" width="10" /><img src="images/wasm/vvt.svg" width="10" /><img src="images/wasm/vvh.svg" width="10" /><img src="images/wasm/vvu.svg" width="10" /><img src="images/wasm/vvb.svg" width="10" /></strong>
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </div>
 
@@ -35,7 +35,7 @@
 <br /><br />
 
 <!-- Personal Tags 区域 -->
-## Personal Tags <img src="images/pic1.png" width="20">
+## <img src="images/wasm/vvp.svg" width="20" /><img src="images/wasm/vve.svg" width="20" /><img src="images/wasm/vvr.svg" width="20" /><img src="images/wasm/vvs.svg" width="20" /><img src="images/wasm/vvo.svg" width="20" /><img src="images/wasm/vvn.svg" width="20" /><img src="images/wasm/vva.svg" width="20" /><img src="images/wasm/vvl.svg" width="20" /><img src="images/wasm/vvspace.svg" width="20" /><img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vva.svg" width="20" /><img src="images/wasm/vvg.svg" width="20" /><img src="images/wasm/vvs.svg" width="20" /><img src="images/pic1.png" width="20">
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3A2MDBzbmUzeXVyNXE4YjQ5cndvbTR4OGdqOTV5cGYzNm83a3o4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" width="20"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> </em>
 
@@ -106,7 +106,7 @@
 <br /><br />
 
 <!-- GitHub 统计区域 -->
-## Github Statistics
+## <img src="images/wasm/vvg.svg" width="20" /><img src="images/wasm/vvi.svg" width="20" /><img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vvh.svg" width="20" /><img src="images/wasm/vvu.svg" width="20" /><img src="images/wasm/vvb.svg" width="20" /><img src="images/wasm/vvspace.svg" width="20" /><img src="images/wasm/vvs.svg" width="20" /><img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vva.svg" width="20" /><img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vvu.svg" width="20" /><img src="images/wasm/vvs.svg" width="20" />
 <picture width="100%">
   <source width="100%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EaminC/EaminC/output/github-contribution-grid-snake-dark.svg">
   <source width="100%" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EaminC/EaminC/output/github-contribution-grid-snake.svg">
@@ -141,7 +141,7 @@
 <p align="right">Working on Python and Go mostly</p>
 
 <!-- 最后感谢访问 -->
-## Thanks for Visiting!
+## <img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vvh.svg" width="20" /><img src="images/wasm/vva.svg" width="20" /><img src="images/wasm/vvn.svg" width="20" /><img src="images/wasm/vvk.svg" width="20" /><img src="images/wasm/vvs.svg" width="20" /><img src="images/wasm/vvspace.svg" width="20" /><img src="images/wasm/vvf.svg" width="20" /><img src="images/wasm/vvo.svg" width="20" /><img src="images/wasm/vvr.svg" width="20" /><img src="images/wasm/vvspace.svg" width="20" /><img src="images/wasm/vvv.svg" width="20" /><img src="images/wasm/vvi.svg" width="20" /><img src="images/wasm/vvs.svg" width="20" /><img src="images/wasm/vvi.svg" width="20" /><img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vvi.svg" width="20" /><img src="images/wasm/vvn.svg" width="20" /><img src="images/wasm/vvg.svg" width="20" />
 <p align="center">
   <img src="https://waifu-getter.vercel.app/sfw/random?" width="498" height="280" />
 </p>
@@ -153,7 +153,7 @@
 
 
 <!-- 访客统计 -->
-## Visitor Statistics
+## <img src="images/wasm/vvv.svg" width="20" /><img src="images/wasm/vvi.svg" width="20" /><img src="images/wasm/vvs.svg" width="20" /><img src="images/wasm/vvi.svg" width="20" /><img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vvo.svg" width="20" /><img src="images/wasm/vvr.svg" width="20" /><img src="images/wasm/vvs.svg" width="20" /><img src="images/wasm/vvspace.svg" width="20" /><img src="images/wasm/vvs.svg" width="20" /><img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vva.svg" width="20" /><img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vvi.svg" width="20" /><img src="images/wasm/vvs.svg" width="20" /><img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vvi.svg" width="20" /><img src="images/wasm/vvc.svg" width="20" /><img src="images/wasm/vvs.svg" width="20" />
 <p align="center">
   You are Visitor No.<br>
   <img src="https://count.getloli.com/@EaminC?name=EaminC&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
