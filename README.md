@@ -23,7 +23,7 @@
 </p>
 
 <p align="right">
-  <a href=".">🔄 The wink will be different everytime you refresh!</a>
+  The wink will be different everytime you <a href=".">refresh</a>!
 </p>
 
 ---
