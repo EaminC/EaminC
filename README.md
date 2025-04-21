@@ -138,7 +138,7 @@
 
 <p align="right">This is fake</p>
 <p align="right">Polluted by recent project</p>
-<p align="right">Working on Python and Go mostly</p>
+<p align="right">Working on <img title="Python" height="25" src="images/python-original.svg"> and <img title="Golang" height="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png"> mostly</p>
 
 <!-- 最后感谢访问 -->
 ## <img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vvh.svg" width="20" /><img src="images/wasm/vva.svg" width="20" /><img src="images/wasm/vvn.svg" width="20" /><img src="images/wasm/vvk.svg" width="20" /><img src="images/wasm/vvs.svg" width="20" /><img src="images/wasm/vvspace.svg" width="20" /><img src="images/wasm/vvf.svg" width="20" /><img src="images/wasm/vvo.svg" width="20" /><img src="images/wasm/vvr.svg" width="20" /><img src="images/wasm/vvspace.svg" width="20" /><img src="images/wasm/vvv.svg" width="20" /><img src="images/wasm/vvi.svg" width="20" /><img src="images/wasm/vvs.svg" width="20" /><img src="images/wasm/vvi.svg" width="20" /><img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vvi.svg" width="20" /><img src="images/wasm/vvn.svg" width="20" /><img src="images/wasm/vvg.svg" width="20" />
