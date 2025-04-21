@@ -18,6 +18,8 @@
   </a>
 </div>
 
+---
+
 <p align="center"> 
   <img src="https://waifu-getter.vercel.app/sfw/wink" width="498" height="280" />
 </p>
@@ -26,7 +28,11 @@
   The wink will be different everytime you <a href="https://github.com/EaminC">refresh</a>!
 </p>
 
----
+## Personal Tags
+
+<img src="images/pic1.png" width="20"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3A2MDBzbmUzeXVyNXE4YjQ5cndvbTR4OGdqOTV5cGYzNm83a3o4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" width="20">
+
+
 <h3>💻 Things I code with</h3>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="pytorch" height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg"></code>
@@ -98,45 +104,64 @@
 
 
 
-
 ## Github Statistics
 
 
-<img src="images/pic1.png" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3A2MDBzbmUzeXVyNXE4YjQ5cndvbTR4OGdqOTV5cGYzNm83a3o4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" width="200">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EaminC&show_icons=true&theme=cobalt&count_private=true)
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EaminC/EaminC/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EaminC/EaminC/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EaminC/EaminC/output/github-contribution-grid-snake.svg">
+ 
+<picture width="100%">
+  <source width="100%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EaminC/EaminC/output/github-contribution-grid-snake-dark.svg">
+  <source width="100%" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EaminC/EaminC/output/github-contribution-grid-snake.svg">
+  <img width="100%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EaminC/EaminC/output/github-contribution-grid-snake.svg">
 </picture>
-</p>  
-<p align="middle">  
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=EaminC&theme=dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=EaminC&theme=light&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EaminC&theme=default&hide_border=true" />
-</picture>
-</p>  
-<p align="left">  
-  <div ><img  src="https://github-profile-trophy.vercel.app/?username=EaminC&theme=gruvbox&row=1&column=5&no-frame=true&no-bg=true" width="1000" /><br/></div>
-</p>  
 
 
+ 
 
 
+<table width="100%">
+  <tr valign="top">
+    <!-- 左列：语言图 -->
+    <td width="43%">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=EaminC&locale=ja&line_height=33&theme=dracula&langs_count=20&layout=donut-vertical" 
+        width="100%" 
+        height="600px"
+        style="object-fit: cover; width: 100%;" />
+    </td>
+    <!-- 右列：奖杯图 + 打卡图 + 总览图 -->
+    <td width="57%">
+      <!-- 打卡图 -->
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=EaminC&theme=dark&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=EaminC&theme=light&hide_border=true" />
+        <img 
+          src="https://github-readme-streak-stats.herokuapp.com/?user=EaminC&theme=default&hide_border=true" 
+          width="100%" />
+      </picture>
+      <br/>
+	      <!-- 奖杯图 -->
+      <img 
+        src="https://github-profile-trophy.vercel.app/?username=EaminC&theme=gruvbox&row=1&column=5&no-frame=true&no-bg=true" 
+        width="100%" />
+      <br/>
+	<br /><br />
+      <!-- 总览图 -->
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=EaminC&show_icons=true&theme=cobalt&count_private=true" 
+        width="100%" />
+    </td>
+  </tr>
+</table>
 
-<p align="middle">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EaminC&locale=ja&line_height=33&theme=dracula&langs_count=20&layout=donut-vertical"/>  
-</p>  
+
 <p align="right">This is fake</p>  
 <p align="right">Polluted by recent project</p>  
 <p align="right">Working on Python and Go mostly</p>  
+
+
 
 
 
