@@ -28,6 +28,8 @@
   The wink will be different everytime you <a href="https://github.com/EaminC">refresh</a>!
 </p>
 
+
+<br /><br />
 ## Personal Tags
 
 <img src="images/pic1.png" width="20"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3A2MDBzbmUzeXVyNXE4YjQ5cndvbTR4OGdqOTV5cGYzNm83a3o4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" width="20">
@@ -102,7 +104,7 @@
 
 
 
-
+<br /><br />
 
 ## Github Statistics
 
