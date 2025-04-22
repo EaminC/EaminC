@@ -115,7 +115,7 @@
 
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr valign="top">
-    <td width="39%" style="padding-right: 10px;">
+    <td width="42%" style="padding-right: 10px;">
       <!-- 语言使用图 -->
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=EaminC&locale=ja&line_height=33&theme=dracula&langs_count=20&layout=donut-vertical" 
@@ -123,7 +123,7 @@
         style="object-fit: cover; width: 100%;" 
       />
     </td>
-    <td width="61%">
+    <td width="58%">
       <!-- 连续打卡图 -->
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=EaminC&theme=dark&hide_border=true" />
