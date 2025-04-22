@@ -113,28 +113,27 @@
   <img width="100%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EaminC/EaminC/output/github-contribution-grid-snake.svg">
 </picture>
 
-<table width="100%">
+<table width="100%" style="height: 600px;">
   <tr valign="top">
-    <td width="43%">
+    <td width="39%">
       <!-- 语言使用图 -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EaminC&locale=ja&line_height=33&theme=dracula&langs_count=20&layout=donut-vertical" width="100%"  style="object-fit: cover; width: 100%;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EaminC&locale=ja&line_height=33&theme=dracula&langs_count=20&layout=donut-vertical" width="100%" style="object-fit: cover; width: 100%; height: 100%;" />
     </td>
-    <td width="57%">
+    <td width="61%" style="display: flex; flex-direction: column; justify-content: space-between; height: 600px;">
       <!-- 连续打卡图 -->
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=EaminC&theme=dark&hide_border=true" />
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=EaminC&theme=light&hide_border=true" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=EaminC&theme=default&hide_border=true" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=EaminC&theme=default&hide_border=true" width="100%" style="flex-grow: 1; object-fit: contain;" />
       </picture>
-      <br/>
       <!-- 奖杯图 -->
-      <img src="https://github-profile-trophy.vercel.app/?username=EaminC&theme=gruvbox&row=1&column=5&no-frame=true&no-bg=true" width="100%" />
-      <br/><br/>
+      <img src="https://github-profile-trophy.vercel.app/?username=EaminC&theme=gruvbox&row=1&column=5&no-frame=true&no-bg=true" width="100%" style="flex-grow: 1; object-fit: contain;" />
       <!-- 总览图 -->
-      <img src="https://github-readme-stats.vercel.app/api?username=EaminC&show_icons=true&theme=cobalt&count_private=true" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=EaminC&show_icons=true&theme=cobalt&count_private=true" width="100%" style="flex-grow: 1; object-fit: contain;" />
     </td>
   </tr>
 </table>
+
 
 <p align="right">This is fake</p>
 <p align="right">Polluted by recent project</p>
