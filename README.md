@@ -119,7 +119,7 @@
       <!-- 语言使用图 -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EaminC&locale=ja&line_height=33&theme=dracula&langs_count=20&layout=donut-vertical" width="100%" style="object-fit: cover; width: 100%; height: 100%;" />
     </td>
-    <td width="61%" style="display: flex; flex-direction: column; justify-content: space-between; height: 600px;">
+    <td width="61%" style="display: flex; flex-direction: column; justify-content: space-between; height: 100%;">
       <!-- 连续打卡图 -->
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=EaminC&theme=dark&hide_border=true" />
