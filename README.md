@@ -117,7 +117,7 @@
   <tr valign="top">
     <td width="43%">
       <!-- 语言使用图 -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EaminC&locale=ja&line_height=33&theme=dracula&langs_count=20&layout=donut-vertical" width="100%" height="600px" style="object-fit: cover; width: 100%;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EaminC&locale=ja&line_height=33&theme=dracula&langs_count=20&layout=donut-vertical" width="100%"  style="object-fit: cover; width: 100%;" />
     </td>
     <td width="57%">
       <!-- 连续打卡图 -->
