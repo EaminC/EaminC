@@ -170,11 +170,11 @@
 <!-- 最后感谢访问 -->
 ## <img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vvh.svg" width="20" /><img src="images/wasm/vva.svg" width="20" /><img src="images/wasm/vvn.svg" width="20" /><img src="images/wasm/vvk.svg" width="20" /><img src="images/wasm/vvs.svg" width="20" /><img src="images/wasm/vvspace.svg" width="20" /><img src="images/wasm/vvf.svg" width="20" /><img src="images/wasm/vvo.svg" width="20" /><img src="images/wasm/vvr.svg" width="20" /><img src="images/wasm/vvspace.svg" width="20" /><img src="images/wasm/vvv.svg" width="20" /><img src="images/wasm/vvi.svg" width="20" /><img src="images/wasm/vvs.svg" width="20" /><img src="images/wasm/vvi.svg" width="20" /><img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vvi.svg" width="20" /><img src="images/wasm/vvn.svg" width="20" /><img src="images/wasm/vvg.svg" width="20" /> 🎉
 <p align="center">
- <img src="https://readme-jokes.vercel.app/api" />
+ <img src="https://waifu-getter.vercel.app/sfw/random?" width="498" height="280" />
 </p>
 
 <p align="right">
-  The joke will be different everytime you <a href="https://github.com/EaminC">refresh   <img src="images/fresh.png" width="20" /></a> !
+  The picture will be different everytime you <a href="https://github.com/EaminC">refresh   <img src="images/fresh.png" width="20" /></a> !
 </p>
 
 
