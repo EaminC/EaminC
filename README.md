@@ -111,13 +111,19 @@
 
 <!-- GitHub 统计区域 -->
 ## <img src="images/wasm/vvg.svg" width="20" /><img src="images/wasm/vvi.svg" width="20" /><img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vvh.svg" width="20" /><img src="images/wasm/vvu.svg" width="20" /><img src="images/wasm/vvb.svg" width="20" /><img src="images/wasm/vvspace.svg" width="20" /><img src="images/wasm/vvs.svg" width="20" /><img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vva.svg" width="20" /><img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vvu.svg" width="20" /><img src="images/wasm/vvs.svg" width="20" /> 💻
-<picture width="100%">
-  <source width="100%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EaminC/EaminC/output/github-contribution-grid-snake-dark.svg">
-  <source width="100%" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EaminC/EaminC/output/github-contribution-grid-snake.svg">
-  <img width="100%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EaminC/EaminC/output/github-contribution-grid-snake.svg">
-</picture>
-
 <table width="100%" cellspacing="0" cellpadding="0">
+  <!-- Snake 动画横幅，单独一行 -->
+  <tr>
+    <td colspan="2">
+      <picture width="100%">
+        <source width="100%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EaminC/EaminC/output/github-contribution-grid-snake-dark.svg">
+        <source width="100%" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EaminC/EaminC/output/github-contribution-grid-snake.svg">
+        <img width="100%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EaminC/EaminC/output/github-contribution-grid-snake.svg">
+      </picture>
+    </td>
+  </tr>
+
+  <!-- 主内容 -->
   <tr valign="top">
     <td width="42%" style="padding-right: 10px;">
       <!-- 语言使用图 -->
