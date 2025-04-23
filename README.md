@@ -133,13 +133,11 @@
           width="100%" 
         />
       </picture>
-      <br/><br/>
       <!-- 奖杯图 -->
       <img 
         src="https://github-profile-trophy.vercel.app/?username=EaminC&theme=gruvbox&row=1&column=5&no-frame=true&no-bg=true" 
         width="100%" 
       />
-      <br/><br/>
       <!-- 总览图 -->
       <img 
         src="https://github-readme-stats.vercel.app/api?username=EaminC&show_icons=true&theme=cobalt&count_private=true" 
