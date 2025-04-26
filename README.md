@@ -169,8 +169,9 @@
 <!-- Girlfriend -->
 ## <img src="images/wasm/vvm.svg" width="20" /><img src="images/wasm/vvy.svg" width="20" /><img src="images/wasm/vvspace.svg" width="20" /><img src="images/wasm/vvk.svg" width="20" /><img src="images/wasm/vvi.svg" width="20" /><img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vvy.svg" width="20" /> 💍
 
-
-  ![Random Image](https://lulu-ngq1.vercel.app/api/random-image?v={{random_number}})
+<p align="right">
+  <img src="images/Lu.JPG" width="498" />
+</p>
 
 <p align="right">
   <a href="https://github.com/EaminC">refresh  <img src="images/fresh.png" width="20" /></a> to see different Lu but same cute!
