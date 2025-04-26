@@ -172,6 +172,9 @@
 <p align="center">
 <img src="https://lulu-ngq1.vercel.app/api/random-image" width="498" />
 </p>
+<p align="right">
+  <a href="https://github.com/EaminC">refresh  <img src="images/fresh.png" width="20" /></a> to see different Lu but same cute!
+</p>
 
 <p align="right">
   Thank you, my dearest love,Miss Yang ❤️
