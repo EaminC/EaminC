@@ -170,7 +170,7 @@
 ## <img src="images/wasm/vvm.svg" width="20" /><img src="images/wasm/vvy.svg" width="20" /><img src="images/wasm/vvspace.svg" width="20" /><img src="images/wasm/vvk.svg" width="20" /><img src="images/wasm/vvi.svg" width="20" /><img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vvy.svg" width="20" /> 💍
 
 <p align="center">
-<img src="images/Lu.JPG" width="498" />
+<img src="https://lulu-ngq1.vercel.app/api/random-image" width="498" />
 </p>
 
 <p align="right">
