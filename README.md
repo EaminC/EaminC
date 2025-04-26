@@ -169,13 +169,11 @@
 <!-- Girlfriend -->
 ## <img src="images/wasm/vvm.svg" width="20" /><img src="images/wasm/vvy.svg" width="20" /><img src="images/wasm/vvspace.svg" width="20" /><img src="images/wasm/vvk.svg" width="20" /><img src="images/wasm/vvi.svg" width="20" /><img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vvy.svg" width="20" /> 💍
 
-<p align="right">
+<p align="center">
   <img src="images/Lu.JPG" width="498" />
 </p>
 
-<p align="right">
-  <a href="https://github.com/EaminC">refresh  <img src="images/fresh.png" width="20" /></a> to see different Lu but same cute!
-</p>
+
 
 <p align="right">
   Thank you, my dearest love,Miss Yang ❤️
@@ -191,7 +189,7 @@
   />
 </p>
 
-<p align="center">
+<p align="right">
   The picture will be different everytime you <a href="https://github.com/EaminC">refresh   <img src="images/fresh.png" width="20" /></a> !
 </p>
 
