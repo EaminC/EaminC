@@ -191,7 +191,7 @@
   />
 </p>
 
-<p align="right">
+<p align="center">
   The picture will be different everytime you <a href="https://github.com/EaminC">refresh   <img src="images/fresh.png" width="20" /></a> !
 </p>
 
