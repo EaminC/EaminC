@@ -40,6 +40,9 @@
 <!-- Personal Tags 区域 -->
 ## <img src="images/wasm/vvp.svg" width="20" /><img src="images/wasm/vve.svg" width="20" /><img src="images/wasm/vvr.svg" width="20" /><img src="images/wasm/vvs.svg" width="20" /><img src="images/wasm/vvo.svg" width="20" /><img src="images/wasm/vvn.svg" width="20" /><img src="images/wasm/vva.svg" width="20" /><img src="images/wasm/vvl.svg" width="20" /><img src="images/wasm/vvspace.svg" width="20" /><img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vva.svg" width="20" /><img src="images/wasm/vvg.svg" width="20" /><img src="images/wasm/vvs.svg" width="20" /> 🏷️
 
+<p align="center">
+  <img src="images/ee.jpg" href="http://183.173.146.12:3000/" width="498" />
+</p>
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3A2MDBzbmUzeXVyNXE4YjQ5cndvbTR4OGdqOTV5cGYzNm83a3o4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" width="20"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> </em><img src="images/pic1.png" width="20">
 <br /><br />
