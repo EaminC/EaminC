@@ -183,8 +183,51 @@
 </p>
 
 
-<!-- place been to -->
-[![Visited Countries Map](https://map1.maploco.com/visited-countries/ml/m9bbf7zw5c-b33r633z7k-b33z27k740-b33j9yo3y8-2rrvthoagw.gif)](https://map1.maploco.com/visited-countries/mine.php?c1=m9bbf7zw5c-b33r633z7k-b33z27k740-b33j9yo3y8-2rrvthoagw)
+<!-- 旅行地图区域 -->
+## <img src="images/wasm/vvt.svg" width="20" />
+<img src="images/wasm/vvi.svg" width="20" />
+<img src="images/wasm/vvs.svg" width="20" />
+<img src="images/wasm/vvi.svg" width="20" />
+<img src="images/wasm/vvt.svg" width="20" />
+<img src="images/wasm/vve.svg" width="20" />
+<img src="images/wasm/vvd.svg" width="20" />
+<img src="images/wasm/vvspace.svg" width="20" />
+<img src="images/wasm/vvc.svg" width="20" />
+<img src="images/wasm/vvo.svg" width="20" />
+<img src="images/wasm/vvu.svg" width="20" />
+<img src="images/wasm/vvn.svg" width="20" />
+<img src="images/wasm/vvt.svg" width="20" />
+<img src="images/wasm/vvr.svg" width="20" />
+<img src="images/wasm/vvi.svg" width="20" />
+<img src="images/wasm/vve.svg" width="20" />
+<img src="images/wasm/vvs.svg" width="20" />
+<img src="images/wasm/vvspace.svg" width="20" />
+<img src="images/wasm/vvc.svg" width="20" />
+<img src="images/wasm/vvo.svg" width="20" />
+<img src="images/wasm/vvu.svg" width="20" />
+<img src="images/wasm/vvn.svg" width="20" />
+<img src="images/wasm/vvt.svg" width="20" />
+<img src="images/wasm/vvr.svg" width="20" />
+<img src="images/wasm/vvi.svg" width="20" />
+<img src="images/wasm/vvs.svg" width="20" />
+<img src="images/wasm/vvi.svg" width="20" />
+<img src="images/wasm/vvt.svg" width="20" />
+<img src="images/wasm/vvi.svg" width="20" />
+<img src="images/wasm/vvn.svg" width="20" />
+<img src="images/wasm/vvg.svg" width="20" /> 🗺️
+
+<p align="center">
+  <a href="https://map1.maploco.com/visited-countries/mine.php?c1=m9bbf7zw5c-b33r633z7k-b33z27k740-b33j9yo3y8-2rrvthoagw">
+    <img 
+      src="https://map1.maploco.com/visited-countries/ml/m9bbf7zw5c-b33r633z7k-b33z27k740-b33j9yo3y8-2rrvthoagw.gif" 
+      alt="Visited Countries Map" 
+      width="498" 
+      style="border-radius: 12px;"
+    />
+  </a>
+  <br>
+  <sub><em>Click the map to create your own!</em></sub>
+</p>
 <!-- 最后感谢访问 -->
 
 ## <img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vvh.svg" width="20" /><img src="images/wasm/vva.svg" width="20" /><img src="images/wasm/vvn.svg" width="20" /><img src="images/wasm/vvk.svg" width="20" /><img src="images/wasm/vvs.svg" width="20" /><img src="images/wasm/vvspace.svg" width="20" /><img src="images/wasm/vvf.svg" width="20" /><img src="images/wasm/vvo.svg" width="20" /><img src="images/wasm/vvr.svg" width="20" /><img src="images/wasm/vvspace.svg" width="20" /><img src="images/wasm/vvv.svg" width="20" /><img src="images/wasm/vvi.svg" width="20" /><img src="images/wasm/vvs.svg" width="20" /><img src="images/wasm/vvi.svg" width="20" /><img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vvi.svg" width="20" /><img src="images/wasm/vvn.svg" width="20" /><img src="images/wasm/vvg.svg" width="20" /> 🎉
