@@ -187,16 +187,13 @@
 ## <img src="images/wasm/vvv.svg" width="20" /><img src="images/wasm/vvi.svg" width="20" /><img src="images/wasm/vvs.svg" width="20" /><img src="images/wasm/vvi.svg" width="20" /><img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vve.svg" width="20" /><img src="images/wasm/vvd.svg" width="20" /><img src="images/wasm/vvspace.svg" width="20" /><img src="images/wasm/vvp.svg" width="20" /><img src="images/wasm/vvl.svg" width="20" /><img src="images/wasm/vva.svg" width="20" /><img src="images/wasm/vvc.svg" width="20" /><img src="images/wasm/vve.svg" width="20" /><img src="images/wasm/vvs.svg" width="20" /> 🗺️
 
 <p align="center">
-  <a href="https://map1.maploco.com/visited-countries/mine.php?c1=m9bbf7zw5c-b33r633z7k-b33z27k740-b33j9yo3y8-2rrvthoagw">
+  <a href="https://map1.maploco.com/visited-countries/mine.php?c1=m9bbf7zw5c-b33r633z7k-b33z27k740-b33j9yo3y8-2rrvtiark0">
     <img 
-      src="https://map1.maploco.com/visited-countries/ml/m9bbf7zw5c-b33r633z7k-b33z27k740-b33j9yo3y8-2rrvthoagw.gif" 
-      alt="Visited Countries Map" 
+      src="https://map1.maploco.com/visited-countries/ml/m9bbf7zw5c-b33r633z7k-b33z27k740-b33j9yo3y8-2rrvtiark0.gif" 
       width="498" 
-      style="border-radius: 12px;"
+      border="0" 
     />
   </a>
-  <br>
-  <sub><em>Click the map to create your own!</em></sub>
 </p>
 <!-- 最后感谢访问 -->
 
