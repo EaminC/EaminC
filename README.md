@@ -78,7 +78,7 @@
   <code><img title="Uchicago" width="25" height="25" src="https://upload.wikimedia.org/wikipedia/en/7/79/University_of_Chicago_shield.svg"></code>
   <code><img title="UchiCS" width="25" height="25" src="images/UChics.jpeg"></code>
   <code><img title="Argone" width="25" height="25" src="images/Argone.png"></code>
-  <code><img title="bt" width="25" height="25" src="images/bt.jpg"></code>
+  <code><img title="bt" width="25" height="25" src="images/bt.png"></code>
   <code><img title="tt" width="25" height="25" src="images/tt.jpg"></code>
   <code><img title="uiuc" width="25" height="25" src="images/uiuc.jpg"></code>
   <code><img title="vllm" width="25" height="25" src="https://avatars.githubusercontent.com/u/136984999?s=200&v=4"></code>
