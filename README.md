@@ -25,11 +25,6 @@
 ## <img src="images/wasm/vvw.svg" width="20" /><img src="images/wasm/vve.svg" width="20" /><img src="images/wasm/vvl.svg" width="20" /><img src="images/wasm/vvc.svg" width="20" /><img src="images/wasm/vvo.svg" width="20" /><img src="images/wasm/vvm.svg" width="20" /><img src="images/wasm/vve.svg" width="20" /> 😉
 
 
-<p align="center">
-  <img src="https://waifu-getter.vercel.app/sfw/wink" width="498" height="280" />
-</p>
-
-
 
 
 <!-- Personal Tags 区域 -->
@@ -119,7 +114,7 @@
 ## <img src="images/wasm/vvg.svg" width="20" /><img src="images/wasm/vvi.svg" width="20" /><img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vvh.svg" width="20" /><img src="images/wasm/vvu.svg" width="20" /><img src="images/wasm/vvb.svg" width="20" /><img src="images/wasm/vvspace.svg" width="20" /><img src="images/wasm/vvs.svg" width="20" /><img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vva.svg" width="20" /><img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vvu.svg" width="20" /><img src="images/wasm/vvs.svg" width="20" /> 💻
 
 
-<table width="100%" cellspacing="0" cellpadding="0">
+
   <!-- Snake 动画横幅，单独一行 -->
   <tr>
     <td colspan="2">
@@ -131,41 +126,33 @@
     </td>
   </tr>
 
-  <!-- 主内容 -->
-  <tr valign="top">
-    <td width="42%" style="padding-right: 10px;">
-      <!-- 语言使用图 -->
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=EaminC&locale=ja&line_height=33&theme=dracula&langs_count=20&layout=donut-vertical" 
-        width="100%" 
-        style="object-fit: cover; width: 100%;" 
-      />
-    </td>
-    <td width="58%">
-      <!-- 连续打卡图 -->
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=EaminC&theme=dark&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=EaminC&theme=light&hide_border=true" />
-        <img 
-          src="https://github-readme-streak-stats.herokuapp.com/?user=EaminC&theme=default&hide_border=true" 
-          width="100%" 
-        />
-      </picture>
-      <!-- 奖杯图 -->
-      <img 
-        src="https://github-profile-trophy.vercel.app/?username=EaminC&theme=gruvbox&row=1&column=5&no-frame=true&no-bg=true" 
-        width="100%" 
-      />
-      <!-- 总览图 -->
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=EaminC&show_icons=true&theme=cobalt&count_private=true" 
-        width="100%" 
-      />
-    </td>
-  </tr>
-</table>
 
 
+
+<!-- 连续打卡图 -->
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=EaminC&theme=dark&hide_border=true"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=EaminC&theme=light&hide_border=true"
+    />
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=EaminC&theme=default&hide_border=true"
+      width="60%"
+    />
+  </picture>
+</p>
+<!-- 语言使用图 -->
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=EaminC&locale=ja&line_height=33&theme=dracula&langs_count=20&layout=donut-vertical"
+    width="30%"
+  />
+</p>
 <p align="right">This is fake</p>
 <p align="right">Polluted by recent project</p>
 <p align="right">Working on <img title="Python" height="25" src="images/python-original.svg"> and <img title="Golang" height="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png"> mostly</p>
@@ -201,13 +188,7 @@
 <!-- 最后感谢访问 -->
 
 ## <img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vvh.svg" width="20" /><img src="images/wasm/vva.svg" width="20" /><img src="images/wasm/vvn.svg" width="20" /><img src="images/wasm/vvk.svg" width="20" /><img src="images/wasm/vvs.svg" width="20" /><img src="images/wasm/vvspace.svg" width="20" /><img src="images/wasm/vvf.svg" width="20" /><img src="images/wasm/vvo.svg" width="20" /><img src="images/wasm/vvr.svg" width="20" /><img src="images/wasm/vvspace.svg" width="20" /><img src="images/wasm/vvv.svg" width="20" /><img src="images/wasm/vvi.svg" width="20" /><img src="images/wasm/vvs.svg" width="20" /><img src="images/wasm/vvi.svg" width="20" /><img src="images/wasm/vvt.svg" width="20" /><img src="images/wasm/vvi.svg" width="20" /><img src="images/wasm/vvn.svg" width="20" /><img src="images/wasm/vvg.svg" width="20" /> 🎉
-<p align="center">
-  <img 
-    src="https://waifu-getter.vercel.app/sfw?eps=dance,wave,cry,smug,happy,cringe,blush,smile,glomp,highfive,pat,hug" 
-    width="498" 
-    height="280" 
-  />
-</p>
+
 
 <p align="right">
   The picture will be different everytime you <a href="https://github.com/EaminC">refresh   <img src="images/fresh.png" width="20" /></a> !
